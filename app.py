@@ -396,6 +396,6 @@ else:
 st.markdown("---")
 st.markdown("""
 <div style="text-align: center; color: #667eea; padding: 1rem;">
-    <p> Kelompok 7 | Crypto Asset Recommendation System</p>
+    <p> Kelompok 5 | Crypto Asset Recommendation System</p>
 </div>
 """, unsafe_allow_html=True)
